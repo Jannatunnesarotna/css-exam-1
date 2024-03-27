@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.Jevlin{
+display: flex;
+align-items: center;
+justify-content: center;
+font-weight: bold;
+font-size: 20px;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+ justify-content: center;
+ list-style: none;
+gap: 25px;
+margin: 10px;
+
+}
+
+.menubar ul li a{
+text-decoration: none;
+
+color: black;
+}
+
+
+
+.new{
+    background-color: rgb(243, 53, 53);
+   width: 120px;
+   height: 30px;
+   color: white;
+   display: flex;
+    align-items: center;
+ justify-content: center;
+ border-radius: 15px;
+ margin-top: 30px;
+}
+
+.ham{
+    font-size: 30PX;
+    font-weight: bolder;
+margin-left: 20PX;
+}
+button{
+    gap: 15px;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.lorem{
+width: 350px;
+margin-top: 20px;
+}
+
+.doller{
+    margin-top: 10px;
+    font-size: 25px;
+    font-weight: bold ;
+  margin-left: 20px;
+}
+
+.learn{
+    width: 150px;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+ margin-left: 100px;
+}
+
+.right-img{
+    display: flex;
+align-items:  center;
+ justify-content: space-between;
+}
+
+.firstimg{
+    height: 300px;
+    width: 400px;
+    background-color: antiquewhite;
+    position: relative;
+}
+
+.secondimg{
+    height: 300px;
+    width: 400px;
+    background-color: antiquewhite;
+    position: relative;
+}
+.thirdimg{
+    height: 300px;
+    width: 400px;
+    background-color: antiquewhite;
+    position: relative;
+}
+.fourthimg{
+    height: 300px;
+    width: 400px;
+    background-color: antiquewhite;
+    position: relative;
+}
+
+.maindiv{
+    display: flex;
+    align-items: center;
+ justify-content: center;
+}
+
+.doller1{
+    width: 50px;
+    background-color: rgb(236, 75, 75);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+   
+    align-items: center;
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 40px;
+}
